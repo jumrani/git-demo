@@ -1,0 +1,26 @@
+git config --global user.name "jumrani"
+
+git config --global user.email "gauravjumrani123@gmail.com"
+
+
+
+git remote add origin https://github.com/gauravjumrani/Calculator1.git
+
+
+
+git remote rm origin
+
+git remote add origin https://GITHUB_USERNAME:PASSWORD@github.com/username/reponame.git
+
+
+
+unable to access 'https://github.com/gauravjumrani123@gmail.com/Calculator1.git/': The requested URL returned error: 400
+
+
+git remote set-url origin https://jumrani@github.com/Calculator1.git
+
+
+
+
+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 
+
